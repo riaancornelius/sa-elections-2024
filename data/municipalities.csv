@@ -1,0 +1,213 @@
+CPT,City of Cape Town,WP
+WC011,Matzikama,WP
+WC012,Cederberg,WP
+WC013,Bergrivier,WP
+WC014,Saldanha Bay,WP
+WC015,Swartland,WP
+WC022,Witzenberg,WP
+WC023,Drakenstein,WP
+WC024,Stellenbosch,WP
+WC025,Breede Valley,WP
+WC026,Breede River/Winelands,WP
+WC031,Theewaterskloof,WP
+WC032,Overstrand,WP
+WC033,Cape Agulhas,WP
+WC034,Swellendam,WP
+WC041,Kannaland,WP
+WC042,Langeberg,WP
+WC043,Mossel Bay,WP
+WC044,George,WP
+WC045,Oudtshoorn,WP
+WC047,Plettenberg Bay,WP
+WC048,Knysna,WP
+WC051,Laingsburg,WP
+WC052,Prince Albert,WP
+WC053,Beaufort West,WP
+BUF,Buffalo,EC
+EC101,Camdeboo,EC
+EC102,Blue Crane Route,EC
+EC104,Makana,EC
+EC105,Ndlambe,EC
+EC106,Sunday's River Valley,EC
+EC108,Kouga,EC
+EC109,Kou-Kamma,EC
+EC121,Mbhashe,EC
+EC122,Mnquma,EC
+EC123,Great Kei,EC
+EC124,Amahlathi,EC
+EC126,Ngqushwa,EC
+EC129,Raymond Mhlaba,EC
+EC131,Inxuba Yethemba,EC
+EC135,Intsika Yethu,EC
+EC136,Emalahleni,EC
+EC137,Engcobo,EC
+EC138,Sakhisizwe,EC
+EC139,Enoch Mgijima,EC
+EC141,Elundini,EC
+EC142,Senqu,EC
+EC145,Walter Sisulu,EC
+EC153,Qaukeni,EC
+EC154,Port St Johns,EC
+EC155,Nyandeni,EC
+EC156,Mhlontlo,EC
+EC157,King Sabata Dalindyebo,EC
+EC441,Matatiele,EC
+EC442,Umzimvubu,EC
+EC443,Winnie Madikizela-Mandela,EC
+EC444,Ntabankulu,EC
+NMA,Nelson Mandela Bay,EC
+NC061,Richtersveld,NC
+NC062,Nama Khoi,NC
+NC064,Kamiesberg,NC
+NC065,Hantam,NC
+NC066,Karoo Hoogland,NC
+NC067,Khai-Ma,NC
+NC071,Ubuntu,NC
+NC072,Umsombomvu,NC
+NC073,Emthanjeni,NC
+NC074,Kareeberg,NC
+NC075,Renosterberg,NC
+NC076,Thembelihle,NC
+NC077,Siyathemba,NC
+NC078,Siyancuma,NC
+NC082,Kai !Garib,NC
+NC084,!Kheis,NC
+NC085,Tsantsabane,NC
+NC086,Kgatelopele,NC
+NC087,Dawid Kruiper,NC
+NC091,Sol Plaatje,NC
+NC092,Dikgatlong,NC
+NC093,Magareng,NC
+NC094,Phokwane,NC
+NC451,Joe Morolong,NC
+NC452,GA-SEGONYANA,NC
+NC453,GAMAGARA,NC
+MAN,Mangaung,FS
+FS161,Letsemeng,FS
+FS162,Kopanong,FS
+FS163,Mohokare,FS
+FS181,Masilonyana,FS
+FS182,Tokologo,FS
+FS183,Tswelopele,FS
+FS184,Matjhabeng,FS
+FS185,Nala,FS
+FS191,Setsoto,FS
+FS192,Dihlabeng,FS
+FS193,Nketoana,FS
+FS194,Maluti a Phofung,FS
+FS195,Phumelela,FS
+FS196,Mantsopa,FS
+FS201,Moqhaka,FS
+FS203,Ngwathe,FS
+FS204,Metsimaholo,FS
+FS205,Mafube,FS
+ETH,Ethekwini,KN
+KZN212,Umdoni,KN
+KZN213,Umzumbe,KN
+KZN214,uMuziwabantu,KN
+KZN216,Hibiscus Coast,KN
+KZN221,uMshwathi,KN
+KZN222,uMngeni,KN
+KZN223,Mooi Mpofana,KN
+KZN224,Impendle,KN
+KZN225,Msunduzi,KN
+KZN226,Mkhambathini,KN
+KZN227,Richmond,KN
+KZN235,Okhahlamba,KN
+KZN237,iNkosi Langalibalele,KN
+KZN238,Alfred Duma,KN
+KZN241,Endumeni,KN
+KZN242,Nqutu,KN
+KZN244,Msinga,KN
+KZN245,Umvoti,KN
+KZN252,Newcastle,KN
+KZN253,Utrecht,KN
+KZN254,Dannhauser,KN
+KZN261,eDumbe,KN
+KZN262,uPhongolo,KN
+KZN263,Abaqulusi,KN
+KZN265,Nongoma,KN
+KZN266,Ulundi,KN
+KZN271,Umhlabuyalingana,KN
+KZN272,Jozini,KN
+KZN275,Mtubatuba,KN
+KZN276,Big Five Hlabisa,KN
+KZN281,Mbonambi,KN
+KZN282,uMhlathuze,KN
+KZN284,uMlalazi,KN
+KZN285,Mthonjaneni,KN
+KZN286,Nkandla,KN
+KZN291,eNdondakusuka,KN
+KZN292,KwaDukuza,KN
+KZN293,Ndwedwe,KN
+KZN294,Maphumulo,KN
+KZN433,Greater Kokstad,KN
+KZN434,uBuhlebezwe,KN
+KZN435,uMzimkhulu,KN
+KZN436,Dr. Nkosazana Dlamini Zuma,KN
+NW371,Moretele,NW
+NW372,Madibeng,NW
+NW373,Rustenburg,NW
+NW374,Kgetlengrivier,NW
+NW375,Moses Kotane,NW
+NW381,Setla-Kgobi,NW
+NW382,Tswaing,NW
+NW383,Mafikeng,NW
+NW384,Ditsobotla,NW
+NW385,Zeerust,NW
+NW392,Naledi,NW
+NW393,Mamusa,NW
+NW394,Greater Taung,NW
+NW396,Lekwa-Teemane,NW
+NW397,Kagisano-Molopo,NW
+NW403,City Council of Klerksdorp,NW
+NW404,Maquassi Hills,NW
+NW405,JB Marks,NW
+EKU,Ekurhuleni,GP
+GT421,Emfuleni,GP
+GT422,Midvaal,GP
+GT423,Lesedi,GP
+GT481,Mogale City,GP
+GT484,Merafong City,GP
+GT485,Rand West City,GP
+JHB,Johannesburg,GP
+TSH,Tshwane,GP
+MP301,Albert Luthuli,MP
+MP302,Msukaligwa,MP
+MP303,Mkhondo,MP
+MP304,Seme,MP
+MP305,Lekwa,MP
+MP306,Dipaleseng,MP
+MP307,Highveld East,MP
+MP311,Victor Khanye,MP
+MP312,Emalahleni,MP
+MP313,Steve Tshwete,MP
+MP314,Emakhazeni,MP
+MP315,Thembisile Hani,MP
+MP316,Dr JS Moroka,MP
+MP321,Thaba Chweu,MP
+MP324,Nkomazi,MP
+MP325,Bushbuckridge,MP
+MP326,City of Mbombela,MP
+LIM331,Greater Giyani,NP
+LIM332,Greater Letaba,NP
+LIM333,Greater Tzaneen,NP
+LIM334,Ba-Phalaborwa,NP
+LIM335,Maruleng,NP
+LIM341,Musina,NP
+LIM343,Thulamela,NP
+LIM344,Makhado,NP
+LIM345,Collins Chabane,NP
+LIM351,Blouberg,NP
+LIM353,Molemole,NP
+LIM354,Polokwane,NP
+LIM355,Lepele-Nkumpi,NP
+LIM361,Thabazimbi,NP
+LIM362,Lephalale,NP
+LIM366,Bela-Bela,NP
+LIM367,Mogalakwena,NP
+LIM368,Modimolle-Mookgophong,NP
+LIM471,Ephraim Mogale,NP
+LIM472,Elias Motsoaledi,NP
+LIM473,Makhuduthamaga,NP
+LIM476,Fetakgomo Tubatse,NP
