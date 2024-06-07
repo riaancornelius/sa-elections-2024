@@ -97,7 +97,7 @@ def download_by_municipality(province: str, municipality: str, type: Ballot):
     base_url = type.urlPrefix
     dest_folder = os.path.join(download_folder, type.name.lower(), DetailLevel.MUNICIPALITY.value.lower(), province)
     filename = f'{municipality}.xls'
-    download(f'{base_url}{province}\{filename}', folder=dest_folder)
+    download(f'{base_url}{province}/{municipality}/{filename}', dest_folder, filename)
 
 
 def download_by_vd(province: str, municipality: str, voting_district:str, type: Ballot):
@@ -179,10 +179,11 @@ def main():
         download_by_provence(province, type=Ballot.REGIONAL)
         download_by_provence(province, type=Ballot.NATIONAL)
         # Then download at a municipality level
-        # for municipality in municipalities[province]:
-        #     download(f'{url}{url_provincial}{province}/{municipality}/{municipality}.xls', province, municipality, folder=provincial_folder)
-        #     download(f'{url}{url_regional}{province}/{municipality}/{municipality}.xls', province, municipality, folder=regional_folder)
-        #     download(f'{url}{url_national}{province}/{municipality}/{municipality}.xls', province, municipality, folder=national_folder)
+        for municipality in municipalities[province]:
+            download_by_municipality(province, municipality, Ballot.PROVINCIAL)
+            download_by_municipality(province, municipality, Ballot.REGIONAL)
+            download_by_municipality(province, municipality, Ballot.NATIONAL)
+
 
 if __name__ == "__main__":
     main()
